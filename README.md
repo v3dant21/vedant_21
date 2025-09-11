@@ -12,7 +12,7 @@ Based on the RahulDKJain profile README style
 ## 🛠️ Work
 
 - 💻 Currently working on:  
-  Building full-stack applications, improving ML pipelines, and experimenting with Rust & TypeScript projects.
+  Building full-stack applications, improving ML pipelines, and experimenting with Rust projects.
 
 - 🎯 Interested in contributing to:  
   Open source tools, real-time systems, data science / machine learning projects.
@@ -22,13 +22,13 @@ Based on the RahulDKJain profile README style
 ## 💡 Skills
 
 ### Programming Languages  
-Rust • TypeScript • Python • JavaScript
+Rust  • Python 
 
 ### Frontend / Web Development  
-React • HTML5 • CSS3 • Tailwind CSS
+ HTML5 • CSS3 • Tailwind CSS
 
 ### Backend / Databases / APIs  
-Node.js • Express • REST APIs • PostgreSQL • MongoDB
+ REST APIs • PostgreSQL • MongoDB
 
 ### Machine Learning / Data Science  
 scikit-learn • Pandas • NumPy • TensorFlow / PyTorch • Data visualization
@@ -55,8 +55,8 @@ Git • Docker • Linux • CI/CD basics
 
 ## 📫 Connect with Me
 
-- **Email:** your.email@example.com  
-- **LinkedIn:** *[Your LinkedIn Profile]*  
+- **Email:** vedantsharmaa.211103@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/vedant-sharma-477640190/ 
 - **Portfolio / Blog:** *[Your Website or Blog]*  
 
 ---
